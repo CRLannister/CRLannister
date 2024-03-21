@@ -111,9 +111,11 @@ Proficient in end-to-end development of business intelligence solutions, encompa
 
 <hr>
 
+<p>
+<a href="https://github.com/CRLannister/github-readme-stats"><img height="200rem" src="https://github-readme-stats.vercel.app/api?username=CRLannister&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" alt="Ashish's github stats"/></a>
+<a href="https://github.com/CRLannister/github-readme-stats"><img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRLannister&count_private=true&show_icons=true&theme=dracula&layout=compact&langs_count=6" alt="Ashish's github stats"/></a>
+</p>
 
-<img height="200rem" src="https://github-readme-stats.vercel.app/api?username=CRLannister&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" alt="Ashish's github stats"/>
-<img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRLannister&count_private=true&show_icons=true&theme=dracula&layout=compact&langs_count=6" alt="Ashish's github stats"/>
 
 <h1 align="">📫 How to reach me:</h1>
 
