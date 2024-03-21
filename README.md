@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 -->
 
 ![banner](./banner.png)
-<h1 align="center">Hi there 👋, I'm Ashish Agarwal, currently pursuing my Master's in Data Science from University of New Haven. I'm also a graduate research assistant at Sail-Labs.</h1>
+<h1 align="center">Hi there 👋, I'm Ashish Agarwal.</h1>
+<h2 align="center">  Currently pursuing my Master's in Data Science from University of New Haven. </h2>
+<h2 align="center">  I'm also a graduate research assistant at Sail-Labs.</h2>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=CRLannister alt=CRLannister/> </p>
 
