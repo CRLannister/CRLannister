@@ -111,10 +111,14 @@ Proficient in end-to-end development of business intelligence solutions, encompa
 
 <hr>
 
-<p>
-<a align="left" href="https://github.com/CRLannister/github-readme-stats"><img height="200rem" src="https://github-readme-stats.vercel.app/api?username=CRLannister&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" alt="Ashish's github stats"/></a>
-<a align="right" href="https://github.com/CRLannister/github-readme-stats"><img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRLannister&count_private=true&show_icons=true&theme=dracula&layout=compact&langs_count=6" alt="Ashish's github stats"/></a>
-</p>
+<div align="">
+
+<br/>
+  <p>
+    <a href="https://github.com/CRLannister/github-readme-stats"><img alt="CRLannister's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CRLannister&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/CRLannister/github-readme-stats"><img alt="CRLannister's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRLannister&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  </p>
+<br/>
 
 
 <h1 align="">📫 How to reach me:</h1>
