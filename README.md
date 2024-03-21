@@ -63,8 +63,8 @@ Proficient in end-to-end development of business intelligence solutions, encompa
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite"/>
   <img src="https://img.shields.io/badge/Redshift-DC382D?logo=redshift&logoColor=white" alt="Redshift"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="Cassandra"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="Neo4j"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=cassandra&logoColor=white" alt="Cassandra"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=neo4j&logoColor=white" alt="Neo4j"/>
 </div>
 
 ### API
