@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 ![banner](./banner.png)
 <h1 align="center">Hi there 👋, I'm Ashish Agarwal.</h1>
-Currently pursuing my Master's in Data Science from University of New Haven.
-I'm also a graduate research assistant at Sail-Labs.
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=CRLannister alt=CRLannister/> </p>
 
@@ -26,8 +24,9 @@ I'm a Data Engineer, BI developer, Data Analyst and Research Student who's passi
 
 Proficient in end-to-end development of business intelligence solutions, encompassing client requirement gathering, data warehouse and data mart architecting, ETL process implementation, OLAP cube design, key performance indicator (KPI) definition, and dashboard/report creation leveraging open-source libraries or Power BI. Extensive expertise in SQL, query optimization, performance tuning, and scalable database modeling. Skilled in data analytics leveraging Python, coupled with proficiency in data manipulation and numerical computing libraries such as Pandas, SciPy, and NumPy.
 
-🔭 I’m currently working on Brain-Computer Interface (BCI) technology using Electroencephalography (EEG).
-🌱 I’m currently learning more on LLM's and NLP.
+🔭 I’m currently working on Brain-Computer Interface (BCI) technology using Electroencephalography (EEG).  
+
+🌱 I’m currently learning more on LLM's and NLP.  
 
 <hr>
 
@@ -118,7 +117,7 @@ Proficient in end-to-end development of business intelligence solutions, encompa
 
 <h1 align="">📫 How to reach me:</h1>
 
-<p align="">
+<p align="center">
 <a href="https://twitter.com/CRLannister" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="CRLannister" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/agarwalashishsinghal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agarwalashishsinghal" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23720542/crlannister5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23720542" height="30" width="40" /></a>
