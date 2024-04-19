@@ -28,6 +28,8 @@ Proficient in end-to-end development of business intelligence solutions, encompa
 
 🌱 I’m currently learning more on LLM's and NLP.  
 
+ 🎨 Portfolio: [https://ashish-portfolio.azurewebsites.net/](https://ashish-portfolio.azurewebsites.net/)
+
 <hr>
 
 ## Skills
