@@ -1,6 +1,6 @@
 ![banner](./banner.png)
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋,+I'm+Ashish+Agarwal.;I+love+Anime,+Manga,+Manhua,+Manhwa,+and+Donghua.;One+of+my+favourites+is+Naruto.;"Orokanaru+otouto+yo!";&center=true&color=40b983&duration=7000&multiline=false&width=800)]
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋,+I'm+Ashish+Agarwal.;I+love+Anime,+Manga,+Manhua,+Manhwa,+and+Donghua.;One+of+my+favourites+is+Naruto.;"Orokanaru+otouto+yo!";&center=true&color=40b983&duration=7000&multiline=false&width=800)(https://github.com/CRLannister)
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=CRLannister alt=CRLannister/> </p>
 
