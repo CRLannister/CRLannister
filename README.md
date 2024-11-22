@@ -11,7 +11,7 @@ I'm a Data Engineer, BI developer, Data Analyst and Research Student who's passi
 Proficient in end-to-end development of business intelligence solutions, encompassing client requirement gathering, data warehouse and data mart architecting, ETL process implementation, OLAP cube design, key performance indicator (KPI) definition, and dashboard/report creation leveraging open-source libraries or Power BI. Extensive expertise in SQL, query optimization, performance tuning, and scalable database modeling. Skilled in data analytics leveraging Python, coupled with proficiency in data manipulation and numerical computing libraries such as Pandas, SciPy, and NumPy.
 
 🔭 I’m currently working on Brain-Computer Interface (BCI) technology using Electroencephalography (EEG).  
-
+![image](https://github.com/user-attachments/assets/d967e000-05d6-432d-9ed3-f2b8a8013c3a) I am currently working on developing solutions for multi-tenant environments, clustering multi-GPU servers, and managing user profiles and permissions.
 🌱 I’m currently learning more on LLM's and NLP.  
 
  🎨 Portfolio: [https://crlannister.github.io/](https://crlannister.github.io/)
@@ -19,6 +19,13 @@ Proficient in end-to-end development of business intelligence solutions, encompa
 <hr>
 
 ## Skills
+
+### 💻 Workstation
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</div>
+
 
 ### Front-end
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
@@ -65,6 +72,15 @@ Proficient in end-to-end development of business intelligence solutions, encompa
   <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" alt="Selenium"/>
 </div>
 
+### IDE
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="Vim"/>
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VsCode"/>
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Colab"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter-Notebook"/>
+  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="Bash > echo > cat"/>
+</div>
+
 ### Version control
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
@@ -82,6 +98,13 @@ Proficient in end-to-end development of business intelligence solutions, encompa
   <img src="https://img.shields.io/badge/Clean Code-004088?logoColor=white" alt="Clean Code"/>
 </div>
 
+### ⏱️ Workflow Platforms
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="Airflow"/>
+  <img src="https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe" alt="Github Actions"/>
+</div>
+
 ### Methodologies
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
   <img src="https://img.shields.io/badge/Scrum-512BD4?logoColor=white" alt="Scrum"/>
@@ -92,6 +115,7 @@ Proficient in end-to-end development of business intelligence solutions, encompa
 ### infrastructure
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/Windows Server-0078D6?logo=windows&logoColor=white" alt="Windows Server"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white" alt="Linux"/>
 </div>
