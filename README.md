@@ -11,7 +11,9 @@ I'm a Data Engineer, BI developer, Data Analyst and Research Student who's passi
 Proficient in end-to-end development of business intelligence solutions, encompassing client requirement gathering, data warehouse and data mart architecting, ETL process implementation, OLAP cube design, key performance indicator (KPI) definition, and dashboard/report creation leveraging open-source libraries or Power BI. Extensive expertise in SQL, query optimization, performance tuning, and scalable database modeling. Skilled in data analytics leveraging Python, coupled with proficiency in data manipulation and numerical computing libraries such as Pandas, SciPy, and NumPy.
 
 🔭 I’m currently working on Brain-Computer Interface (BCI) technology using Electroencephalography (EEG).  
+
 💻 I am currently working on developing solutions for multi-tenant environments, clustering multi-GPU servers, and managing user profiles and permissions.
+
 🌱 I’m currently learning more on LLM's and NLP.  
 
  🎨 Portfolio: [https://crlannister.github.io/](https://crlannister.github.io/)
