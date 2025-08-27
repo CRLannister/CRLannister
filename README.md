@@ -6,17 +6,15 @@
 
 <h1 align="">About Me</h1>
 
-I'm a Data Engineer, BI developer, Data Analyst and Research Student who's passionate about AI, Machine Learning, Cloud Computing, open-source development and new advances in technologies. I'm thrilled to have you visiting my GitHub profile! My expertise lies in creating pipelines for data, data cleaning, wrangling, storing, securing, analysis, visualizations and creating reports and dashboards. I've worked on a wide range of projects, from small-scale jupyter notebook, adhoc reports and analysis to large enterprise systems deployment from on-premise legacy system to cloud. My commitment to continuous learning and development drives me to always seek opportunities for growth in my field.
+I’m a Java Developer with 6+ years of experience building web and enterprise applications in industries like Healthcare, Insurance, and Real Estate. Over the years, I’ve become passionate about creating reliable, scalable software and enjoy working in Agile environments, especially using Scrum and TDD to keep teams focused and productive.
 
-Proficient in end-to-end development of business intelligence solutions, encompassing client requirement gathering, data warehouse and data mart architecting, ETL process implementation, OLAP cube design, key performance indicator (KPI) definition, and dashboard/report creation leveraging open-source libraries or Power BI. Extensive expertise in SQL, query optimization, performance tuning, and scalable database modeling. Skilled in data analytics leveraging Python, coupled with proficiency in data manipulation and numerical computing libraries such as Pandas, SciPy, and NumPy.
+I work extensively with Java, making use of features like Lambda expressions, functional interfaces, and parallel streams to write clean and efficient code. On the backend, I’ve built scalable SOA solutions and integrated RESTful and SOAP web services using Spring Boot, JAX-RS, Apache CXF, and Jersey. On the frontend, I’ve worked with Angular 15, Node.js, and modern web technologies like HTML5, CSS, JavaScript, and Bootstrap to deliver responsive, user-friendly applications.
 
-🔭 I’m currently working on Brain-Computer Interface (BCI) technology using Electroencephalography (EEG).  
+I also have hands-on experience with microservices, Docker, and OpenShift, as well as messaging systems like Spring Kafka, RabbitMQ, and ActiveMQ. My database experience covers both NoSQL (MongoDB, Cassandra, CouchDB) and relational systems (Oracle, SQL Server, DB2, MySQL), where I’ve done schema design, modeling, and migrations.
 
-💻 I am currently working on developing solutions for multi-tenant environments, clustering multi-GPU servers, and managing user profiles and permissions.
+For DevOps and cloud, I’m comfortable setting up CI/CD pipelines with Jenkins, Maven, Gradle, Git/GitHub, and deploying applications on AWS services like EC2, Elastic Beanstalk, RDS, and S3 using Terraform and CloudFormation. I’ve also worked with Spring MVC, Hibernate, and BPM tools like jBPM and Drools, and I’m well-versed in testing with JUnit, Mockito, Selenium, JMeter, and SoapUI.
 
-🌱 I’m currently learning more on LLM's and NLP.  
-
- 🎨 Portfolio: [https://crlannister.github.io/](https://crlannister.github.io/)
+At the end of the day, I take pride in writing clean code, building systems that scale, and collaborating with teams to deliver solutions that make a real impact.
 
 <hr>
 
