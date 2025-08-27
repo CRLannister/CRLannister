@@ -43,6 +43,7 @@ At the end of the day, I take pride in writing clean code, building systems that
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Java-0175C2?logo=javat&logoColor=white" alt="Java"/>
 </div>
 
 ### Mobile
